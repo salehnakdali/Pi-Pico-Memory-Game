@@ -19,12 +19,12 @@ To play PI Pico Memory Game on your Raspberry Pi Pico, follow these steps:
 4. The highest scrore is 10, Keep playing and try to beat your high score! 🏆🎉
 5. At the end that game, you will get the option to play again exit.
 <p align="center">
-  <img src="1.jpg" alt="Raspberry Pi Pico" width="400" height="300">
-  <img src="2.jpg" alt="Pimoroni Explorer Board" width="400" height="300">
-  <img src="3.jpg" alt="Color Memory Game Screenshot" width="400" height="300">
-  <img src="4.jpg" alt="Raspberry Pi Pico" width="400" height="300">
-  <img src="5.jpg" alt="Pimoroni Explorer Board" width="400" height="300">
-  <img src="6.jpg" alt="Color Memory Game Screenshot" width="400" height="300">
+  <img src="images\1.jpg" alt="Raspberry Pi Pico" width="400" height="300">
+  <img src="images\2.jpg" alt="Pimoroni Explorer Board" width="400" height="300">
+  <img src="images\3.jpg" alt="Color Memory Game Screenshot" width="400" height="300">
+  <img src="images\4.jpg" alt="Raspberry Pi Pico" width="400" height="300">
+  <img src="images\5.jpg" alt="Pimoroni Explorer Board" width="400" height="300">
+  <img src="images\6.jpg" alt="Color Memory Game Screenshot" width="400" height="300">
 </p>
 </p>
 
